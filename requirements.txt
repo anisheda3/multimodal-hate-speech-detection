@@ -1,0 +1,25 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+transformers
+sentence-transformers
+peft
+
+# Computer Vision / OCR
+opencv-python
+easyocr
+pillow
+
+# UI / Demo
+gradio
+
+# Utilities
+tqdm
