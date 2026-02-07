@@ -1,9 +1,14 @@
 # Data (never commit datasets)
-data/**
+# ======================
+# DATA & ARTIFACTS
+# ======================
+data/*
+!data/README.md
 *.csv
 *.zip
 *.pt
 *.pth
+
 
 # Notebooks
 .ipynb_checkpoints/
